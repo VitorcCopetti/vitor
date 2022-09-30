@@ -1,0 +1,18 @@
+[2022-09-26 17:37:52.986] [exthost] [info] Extension host with pid 141 started
+[2022-09-26 17:37:53.034] [exthost] [info] Lock '/home/vitor/.vscode-server/data/User/workspaceStorage/4476f47c56689d5053b2ebe8bfe4141f/vscode.lock': Lock acquired.
+[2022-09-26 17:37:53.559] [exthost] [info] ExtensionService#_doActivateExtension cschlosser.doxdocgen, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-09-26 17:37:53.796] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-09-26 17:37:54.188] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-26 17:37:54.193] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-26 17:37:54.199] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-26 17:37:55.271] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-26 17:37:55.470] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-26 17:37:56.147] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-26 17:37:56.210] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-26 17:37:56.230] [exthost] [info] Eager extensions activated
+[2022-09-26 17:57:33.412] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-09-26 17:57:33.442] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-09-26 17:57:33.602] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-09-26 21:14:53.932] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-26 21:14:53.970] [exthost] [info] Lock '/home/vitor/.vscode-server/data/User/workspaceStorage/4476f47c56689d5053b2ebe8bfe4141f/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-09-26 21:14:55.205] [exthost] [info] Extension host with pid 141 exiting with code 0

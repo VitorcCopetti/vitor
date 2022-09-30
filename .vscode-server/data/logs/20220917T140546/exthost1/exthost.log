@@ -1,0 +1,12 @@
+[2022-09-17 14:05:49.497] [exthost] [info] Extension host with pid 158 started
+[2022-09-17 14:05:49.525] [exthost] [info] Lock '/home/vitor/.vscode-server/data/User/workspaceStorage/4476f47c56689d5053b2ebe8bfe4141f/vscode.lock': Lock acquired.
+[2022-09-17 14:05:50.028] [exthost] [info] ExtensionService#_doActivateExtension cschlosser.doxdocgen, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-09-17 14:05:50.169] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-09-17 14:05:50.368] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-17 14:05:50.372] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-17 14:05:50.382] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-17 14:05:50.530] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-17 14:05:50.667] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-17 14:05:50.911] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-17 14:05:50.929] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-17 14:05:50.936] [exthost] [info] Eager extensions activated

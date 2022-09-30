@@ -1,0 +1,11 @@
+[2022-09-18 15:43:18.736] [remoteagent] [info] Extension host agent started.
+[2022-09-18 15:43:19.375] [remoteagent] [info] [127.0.0.1][a2ff68dc][ManagementConnection] New connection established.
+[2022-09-18 15:43:19.596] [remoteagent] [info] [127.0.0.1][5107feed][ExtensionHostConnection] New connection established.
+[2022-09-18 15:43:20.555] [remoteagent] [info] [127.0.0.1][5107feed][ExtensionHostConnection] <141> Launched Extension Host Process.
+[2022-09-18 18:00:25.975] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-09-18 20:24:32.116] [remoteagent] [info] [127.0.0.1][a2ff68dc][ManagementConnection] The client has reconnected.
+[2022-09-18 20:24:33.516] [remoteagent] [info] [127.0.0.1][5107feed][ExtensionHostConnection] The client has reconnected.
+[2022-09-18 20:25:28.081] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/vitor/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/server/node/server.main.js:145:7922)
+    at process.emit (node:events:526:28)
+[2022-09-18 20:25:28.084] [remoteagent] [info] [127.0.0.1][a2ff68dc][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
