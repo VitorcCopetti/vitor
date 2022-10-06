@@ -700,3 +700,6 @@ git add atividade1.cpp
 git commit -a -m “mensagem”
 git push
 ls
+git brancg
+gitbranch
+clear
