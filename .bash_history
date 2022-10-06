@@ -637,3 +637,66 @@ clear
 git init
 git add .
 git commit -m "att"
+git config --global user.name "VitorCopetti
+clear
+clear
+"
+clear
+git config --global user.name "VitorCopetti"
+git config --global user.name "vc0118108@setrem.com.br"
+git config -l
+git init
+clear
+git init
+git add .
+git commit -m "att"
+git remote add origin https://github.com/VitorcCopetti/vitor.git
+git push -u orgigin master 
+git push -u origin master
+pwd
+$ git config --global user.name "VitorCopetti"
+git config --global user.name "VitorCopetti" 
+git config --global user.email "vc0118108@setrem.com.br"
+git config -l
+git clone https://github.com/VitorcCopetti/vitor.git
+ls
+cd vitor
+ls
+git config --global credential.helper cache
+git pull -v
+ls
+git config --global credential.helper cache
+git pull -v
+git init
+git add README.md
+echo "# vitor" >> README.md
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/VitorcCopetti/vitor.git
+git push -u origin main
+ls
+git config --global credential.helper cache
+git pull -v
+git switch -c Vitor
+git push --set-upstream origin Vitor
+git checkout main
+git pull
+git add nomeArquivo
+git add exer.cpp
+git add nomeArquivo
+clear
+git add vitor
+git checkout main
+git pull
+git push --set-upstream origin vitor
+git push --set-upstream origin Vitor
+git checkout main
+git pull
+git add nomeArquivo
+git add exer.cpp
+ls
+git add atividade1.cpp
+git commit -a -m “mensagem”
+git push
+ls

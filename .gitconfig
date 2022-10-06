@@ -1,2 +1,5 @@
 [user]
-	name = vc0118108@setrem.com.br
+	name = VitorCopetti
+	email = vc0118108@setrem.com.br
+[credential]
+	helper = cache
